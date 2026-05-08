@@ -16,7 +16,7 @@ I am a **Software Engineering student @ University of Waterloo**. My journey wit
   ❈•≫────≪•◦ ❈ ◦•≫────≪•❈
 </p>
 
-<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" align="right" width="250" alt="Mystic Forest Path" style="border-radius: 10px; margin-left: 20px; margin-bottom: 10px;" />
+<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" align="right" width="120" alt="Mystic Forest Path" style="border-radius: 10px; margin-left: 15px; margin-bottom: 5px;" />
 
 ### ⚔️ Experience
 
