@@ -1,17 +1,27 @@
-# Hello, I'm Fiona!
+<h1 align="center">🏰 Hello, I'm Fiona! 🏰</h1>
 
-### 📖 Introduction
+<p align="center">
+  ✴︎⋆°.⋆༺ 𓊝 ༻⋆.°⋆✴︎
+</p>
+
+### 📜 Introduction
 I am a **Software Engineering student @ University of Waterloo**. My journey with programming began when I was **11 years old!**
 
-* **🌐 Portfolio:** [fiona-dang.com](https://fiona-dang.com)
-* **✍️ Fun Fact:** When I'm not debugging code, I’m writing stories as a **published author**.
+* **🔮 Portfolio:** [fiona-dang.com](https://fiona-dang.com)
+* **🪶 Fun Fact:** When I'm not debugging code, I’m writing stories as a **published author**.
 
----
+<br clear="both"/>
 
-### 🚀 Experience
+<p align="center">
+  ❈•≫────≪•◦ ❈ ◦•≫────≪•❈
+</p>
+
+<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" align="right" width="220" alt="Mystic Forest Path" style="border-radius: 10px; margin-left: 20px; margin-bottom: 10px;" />
+
+### ⚔️ Experience
 
 * **Instant Risk Coverage** | *Software Developer (Part-time) / Former Full Time Intern*
-    * Transitioned from intern to part-time developer, contributing to production-grade software solutions.
+    * Transitioned from intern to part-time developer
 * **Engineering IDEAs Clinic** | *Research*
     * Co-authored a research paper on **Quantum Computing** (currently under review).
 * **Wat AI** | *AI Developer*
@@ -19,11 +29,17 @@ I am a **Software Engineering student @ University of Waterloo**. My journey wit
 * **Yale University** | *Research (YYGS)*
     * Conducted research as part of the Yale Young Global Scholars program.
 
-> **🤖 Fun Fact:** I spent four years in competitive robotics, serving as **President and Engineering Lead** for both VRC and FRC teams!
+> **🤖✨ Fun Fact:** I spent four years in competitive robotics, serving as **President and Engineering Lead** for both VRC and FRC teams!
 
----
+<br clear="both"/>
 
-### 🛠️ Technical Toolkit
+<p align="center">
+  ❈•≫────≪•◦ ❈ ◦•≫────≪•❈
+</p>
+
+### 🪄 Technical Skills
+
+<img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" align="right" width="280" alt="Magical Night Sky" style="border-radius: 10px; margin-left: 20px; margin-bottom: 10px;" />
 
 | Category | Skills |
 | :--- | :--- |
@@ -32,9 +48,13 @@ I am a **Software Engineering student @ University of Waterloo**. My journey wit
 | **AI & Data** | TensorFlow, NumPy, Pandas, Scikit-learn |
 | **DevOps** | Docker, Kubernetes, Git |
 
----
+<br clear="both"/>
 
-### 📫 Let's Connect
+<p align="center">
+  ❈•≫────≪•◦ ❈ ◦•≫────≪•❈
+</p>
+
+### 🦉 Let's Connect
 * **Email:** [f2dang@uwaterloo.ca](mailto:f2dang@uwaterloo.ca)
 * **LinkedIn:** [in/fiona-dang-fd](https://www.linkedin.com/in/fiona-dang-fd/)
 * **Inquiries:** [fiona-dang.com/engineer/contact](https://fiona-dang.com/engineer/contact)
