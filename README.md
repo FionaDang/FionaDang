@@ -16,8 +16,7 @@ I am a **Software Engineering student @ University of Waterloo**. My journey wit
   ❈•≫────≪•◦ ❈ ◦•≫────≪•❈
 </p>
 
-<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" align="right" width="120" alt="Mystic Forest Path" style="border-radius: 10px; margin-left: 15px; margin-bottom: 5px;" />
-
+<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" align="right" width="120" alt="Mystic Forest Path" style="border-radius: 10px; margin-left: 20px; margin-right: 150px; margin-bottom: 10px;" />
 ### ⚔️ Experience
 
 * **Instant Risk Coverage** | *Software Developer (Part-time) / Former Full Time Intern*
@@ -39,7 +38,7 @@ I am a **Software Engineering student @ University of Waterloo**. My journey wit
 
 ### 🪄 Technical Skills
 
-<img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" align="right" width="120" alt="Magical Night Sky" style="border-radius: 10px; margin-left: 15px; margin-bottom: 5px;" />
+<img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" align="right" width="200" alt="Magical Night Sky" style="border-radius: 10px; margin-left: 20px; margin-right: 150px; margin-bottom: 10px;" />
 
 | Category | Skills |
 | :--- | :--- |
