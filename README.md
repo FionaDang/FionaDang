@@ -57,4 +57,3 @@ I am a **Software Engineering student @ University of Waterloo**. My journey wit
 ### 🦉 Let's Connect
 * **Email:** [f2dang@uwaterloo.ca](mailto:f2dang@uwaterloo.ca)
 * **LinkedIn:** [in/fiona-dang-fd](https://www.linkedin.com/in/fiona-dang-fd/)
-* **Inquiries:** [fiona-dang.com/engineer/contact](https://fiona-dang.com/engineer/contact)
